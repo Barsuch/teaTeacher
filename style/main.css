@@ -1,0 +1,110 @@
+@import url("calibri.ttf");
+@import url("calibrib.ttf");
+@import url("calibrii.ttf");
+@import url("calibril.ttf");
+.calibri
+{
+  font-family: "Calibri",sans-serif;
+}
+.calibrib
+{
+  font-family: "Calibrib",sans-serif;
+  font-size: 19px;
+}
+.calibrii
+{
+  font-family: "Calibrii",sans-serif;
+}
+.calibril
+{
+  font-family: "Calibril",sans-serif;
+}
+.grey-white
+{
+  background-color: rgb(89, 89, 89);
+  color: white;
+}
+
+.head .col{
+  padding-top: 50px;
+}
+.head button:hover{
+  background-color: rgb(237,126,45);
+}
+.head button{
+  padding: 8px;
+  margin: 5px;
+  border-radius: 20px;
+}
+
+.text-orange{
+  color: rgb(237,126,45);
+}
+
+.orangebg{
+  background-color: rgb(237,126,45);
+}
+
+.greybg{
+  background-color: rgba(231, 230, 232, 0.881);
+}
+
+.center-con{
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 4%;
+}
+
+.bottom-line{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  border-bottom: 3px solid rgb(237,126,45);
+}
+
+#headings{
+  padding-top: 10px;
+  padding-bottom: 15px;
+  font-size: 34px;
+}
+.head{
+  padding-top: 5px;
+}
+
+#schl-list{
+  color: white;
+}
+
+.flags{
+  color: white;
+  background-color: inherit;
+}
+.flags p{
+  font-size: 10px;
+}
+.flags img{
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.category{
+  padding-bottom: 5px;
+}
+.category button:hover{
+  color: rgb(244, 180, 135);
+}
+
+.category button{
+  background-color: rgba(155, 148, 148, 0.879);
+  color: white;
+  border-left: 10px solid rgb(237,126,45);
+}
+
+.dropdown-books{
+  border-radius: 10px;
+  background-color: aliceblue;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

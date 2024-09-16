@@ -1,0 +1,62 @@
+/*
+.robotomono
+.Quicksand
+.Merriweather
+.PlayfairDisplay
+.ProtestRiot
+.Montserrat
+*/
+@import url("https://fonts.googleapis.com/css?family=Merriweather");
+@import url("https://fonts.googleapis.com/css?family=Quicksand");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css?family=Playfair Display");
+@import url("https://fonts.googleapis.com/css?family=Protest Riot");
+@import url("https://fonts.googleapis.com/css?family=Roboto Mono");
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+.DancingScript
+{
+  font-family: "Dancing Script",sans-serif;
+}
+.robotomono{
+  font-family: "Roboto Mono",sans-serif;
+}
+.Quicksand{
+  font-family: "Quicksand",sans-serif;
+}
+.Merriweather{
+  font-family: "Merriweather",sans-serif;
+}
+.PlayfairDisplay{
+  font-family: "Playfair Display",sans-serif;
+}
+.ProtestRiot{
+  font-family: "Protest Riot",sans-serif;
+}
+.Montserrat{
+  font-family: "Montserrat",sans-serif;
+}
+.pt-serif-regular {
+   font-family: "PT Serif", serif;
+   font-weight: 400;
+   font-style: normal;
+}
+ 
+.pt-serif-bold {
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+  
+.pt-serif-regular-italic {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.pt-serif-bold-italic {
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: italic;
+}  
